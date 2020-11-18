@@ -11,8 +11,8 @@ HTML / CSS / ES6 / JQuery / BEM /
 
 #### Tests: 
 PageSpeed Insights: 
-* desktop 98 
-* mobile 82
+* desktop 89 
+* mobile 65
 
 W3 Validator:
 * No errors or warnings to show.
