@@ -1,0 +1,8 @@
+/node_modules
+# production
+/prod
+/dist
+
+# misc
+.idea
+.DS_Store
